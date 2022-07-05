@@ -87,6 +87,11 @@
     margin: 10px;
 }
 
+.galeria img:hover{
+    transition:2s;
+    transform:scale(1.1);
+}
+
 .imagem-sombra {
     box-shadow: 10px 10px 10px #939393;
 }
